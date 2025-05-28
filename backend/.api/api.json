@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "open-api-banking",
+      "source": "@open-api-banking/v1#4u4cz09ynm4cu3l7j",
+      "integrity": "sha512-nEarImPa2UYTLkG6hY5dtjrkcawYF26wW8LlJ3r2Tar/7j1Nt5u7yyV6ONHbUuEoVZuuF82sBDRXXis+VmOjqg==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
